@@ -1,0 +1,58 @@
+<mjml>
+  <mj-head>
+    <mj-title>Регистрация на конференцию «Сфера продвижения»</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, Arial, sans-serif" padding="0px"></mj-all>
+      <mj-text font-weight="400" font-size="21px" color="#000000" line-height="25px"></mj-text>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#FFFFFF">
+    <mj-section padding="0 0 0 0">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/ilyxenc/Yandex-Conf-Layout/main/images/header.png" alt="" align="center" border="none" padding="0px" width="600px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 0 0">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/ilyxenc/Yandex-Conf-Layout/main/images/caption.png" alt="" align="center" border="none" padding="0px" width="600px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="30px 50px 56px 50px">
+      <mj-column>
+        <mj-text>
+          Здравствуйте!
+          <br /><br />
+          Вы зарегистрировались на конференцию
+          «Сфера продвижения», которая пройдёт 18 апреля в КЗ «Академия» в Москве.
+          <br /><br />
+          Спасибо за ваш интерес!
+          <br />
+          Мы внимательно изучим все заявки и пришлём билет за неделю до конференции.
+          <br /><br />
+          <strong> А пока отмечайте 18 апреля в календаре —
+            <br />
+            и до встречи!</strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 50px 25px 50px">
+      <mj-column>
+        <mj-text align="right" font-size="17px" line-height="20px">
+          <strong>Команда Яндекс Маркета!</strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#000000" padding="8px 15px 8px 8px">
+      <mj-column width="132px">
+        <mj-social mode="horizontal" icon-size="30px" icon-padding="7px">
+          <mj-social-element name="vk" src="https://raw.githubusercontent.com/ilyxenc/Yandex-Conf-Layout/main/images/v.png" href="https://vk.com/"></mj-social-element>
+          <mj-social-element name="vk" src="https://raw.githubusercontent.com/ilyxenc/Yandex-Conf-Layout/main/images/y.png" href="https://youtube.com/"></mj-social-element>
+          <mj-social-element name="vk" src="https://raw.githubusercontent.com/ilyxenc/Yandex-Conf-Layout/main/images/t.png" href="https://web.telegram.org/"></mj-social-element>
+        </mj-social>
+      </mj-column>
+      <mj-column width="445px">
+        <mj-text color="white" align="right" font-size="10px" line-height="44px">© 2023 ООО «Яндекс»</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
