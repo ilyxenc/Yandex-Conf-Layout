@@ -9,28 +9,21 @@
   <mj-body background-color="#FFFFFF">
     <mj-section padding="0 0 0 0">
       <mj-column>
-        <mj-image href="https://partner.market.yandex.ru/welcome/" src="https://raw.githubusercontent.com/ilyxenc/Yandex-Conf-Layout/main/images/header-2.png" alt="" align="center" border="none" padding="0px" width="600px"></mj-image>
+        <mj-image href="https://partner.market.yandex.ru/welcome/" src="https://raw.githubusercontent.com/ilyxenc/Yandex-Conf-Layout/main/images/header-3.png" alt="" align="center" border="none" padding="0px" width="600px"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding="0 0 0 0">
       <mj-column>
-        <mj-image src="https://raw.githubusercontent.com/ilyxenc/Yandex-Conf-Layout/main/images/caption-2.png" alt="" align="center" border="none" padding="0px" width="600px"></mj-image>
+        <mj-image src="https://raw.githubusercontent.com/ilyxenc/Yandex-Conf-Layout/main/images/caption-3.png" alt="" align="center" border="none" padding="0px" width="600px"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding="30px 50px">
       <mj-column>
         <mj-text>
-          <strong>Станьте частью «Сферы продвижения» на первой первой конференции Маркета про рекламу в&nbsp;e-com и foodtech.</strong>
+          <strong>Здравствуйте!</strong>
           <br /><br />
-          Поговорим, как мы вместе с другими сервисами Яндекса строим единую платформу для продвижения, чтобы вы могли привлекать максимум покупателей и продавать больше.
-          <br /><br />
-          Вас ждут:<br />
-          &nbsp;&nbsp;&nbsp;&#8226;&nbsp;&nbsp;&nbsp;анонсы новинок в продвижении на Маркете,<br />
-          &nbsp;&nbsp;&nbsp;&#8226;&nbsp;&nbsp;&nbsp;чек-листы по настройке эффективных кампаний,<br />
-          &nbsp;&nbsp;&nbsp;&#8226;&nbsp;&nbsp;&nbsp;кейсы, прогнозы и дискуссии,<br />
-          &nbsp;&nbsp;&nbsp;&#8226;&nbsp;&nbsp;&nbsp;нетворкинг с ведущими экспертами в e-com продвижении от Яндекса.
-          <br /><br />
-          Завершит конференцию выступление секретного гостя и фуршет. Обещаем, что будет интересно!
+          Здравствуйте!
+          Мы свяжемся с вами в ближайшее время.
         </mj-text>
       </mj-column>
     </mj-section>
