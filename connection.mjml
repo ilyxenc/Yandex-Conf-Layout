@@ -22,20 +22,7 @@
         <mj-text>
           <strong>Здравствуйте!</strong>
           <br /><br />
-          Здравствуйте!
           Мы свяжемся с вами в ближайшее время.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-button align="center" height="54px" background-color="#3E424C" color="#FFFFFF" border-radius="91px" font-size="16px" href="https://sphere360.yandex/" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif">ЗАРЕГИСТРИРОВАТЬСЯ БЕСПЛАТНО</mj-button>
-      </mj-column>
-    </mj-section>
-    <mj-section padding="30px 50px 40px">
-      <mj-column>
-        <mj-text>
-          <strong>Встречаемся 18 апреля в концертном зале «Академия» в Москве или онлайн, начало в 10:00.</strong>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -47,14 +34,7 @@
       </mj-column>
     </mj-section>
     <mj-section background-color="#3E424C" padding="8px 15px 8px 8px">
-      <mj-column width="132px">
-        <mj-social mode="horizontal" icon-size="30px" icon-padding="7px">
-          <mj-social-element name="vk" src="https://raw.githubusercontent.com/ilyxenc/Yandex-Conf-Layout/main/images/v-2.png" href="https://vk.com/yandex.market.for.sellers"></mj-social-element>
-          <mj-social-element name="vk" src="https://raw.githubusercontent.com/ilyxenc/Yandex-Conf-Layout/main/images/y-2.png" href="https://www.youtube.com/c/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%9C%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0%D0%BC"></mj-social-element>
-          <mj-social-element name="vk" src="https://raw.githubusercontent.com/ilyxenc/Yandex-Conf-Layout/main/images/t-2.png" href="https://t.me/market_marketplace"></mj-social-element>
-        </mj-social>
-      </mj-column>
-      <mj-column width="445px">
+      <mj-column>
         <mj-text color="white" align="right" font-size="10px" line-height="44px">© 2023 ООО «Яндекс»</mj-text>
       </mj-column>
     </mj-section>
