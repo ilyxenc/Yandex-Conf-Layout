@@ -1,0 +1,53 @@
+<mjml>
+  <mj-head>
+    <mj-title>Конференция «Сфера продвижения»</mj-title>
+    <mj-font name="YS" href="https://raw.githubusercontent.com/ilyxenc/Yandex-Conf-Layout/main/fonts/fonts.css" />
+    <mj-attributes>
+      <mj-all font-family="YS, Roboto, Helvetica, Arial, sans-serif" padding="0px"></mj-all>
+      <mj-text font-weight="400" font-size="20px" color="#3E424C" line-height="24px"></mj-text>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#FFFFFF">
+    <mj-section padding="0 0 0 0">
+      <mj-column>
+        <mj-image href="https://partner.market.yandex.ru/welcome/" src="https://raw.githubusercontent.com/ilyxenc/Yandex-Conf-Layout/main/images/header-2.png" alt="" align="center" border="none" padding="0px" width="600px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 0 0">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/ilyxenc/Yandex-Conf-Layout/main/images/caption-4.png" alt="" align="center" border="none" padding="0px" width="600px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="30px 50px">
+      <mj-column>
+        <mj-text>
+          <strong>Ждем вас на онлайн-трансляции</strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-button align="center" height="54px" background-color="#3E424C" color="#FFFFFF" border-radius="91px" font-size="16px" href="https://www.youtube.com/watch?v=akjUfLo7vEk" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif">СМОТРЕТЬ ТРАНСЛЯЦИЮ</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="30px 50px 30px 50px">
+      <mj-column>
+        <mj-text align="left" font-size="20px" line-height="24px">
+          Команда Яндекс Маркета
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3E424C" padding="8px 15px 8px 8px">
+      <mj-column width="132px">
+        <mj-social mode="horizontal" icon-size="30px" icon-padding="7px">
+          <mj-social-element name="vk" src="https://raw.githubusercontent.com/ilyxenc/Yandex-Conf-Layout/main/images/v-2.png" href="https://vk.com/yandex.market.for.sellers"></mj-social-element>
+          <mj-social-element name="vk" src="https://raw.githubusercontent.com/ilyxenc/Yandex-Conf-Layout/main/images/y-2.png" href="https://www.youtube.com/c/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%9C%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0%D0%BC"></mj-social-element>
+          <mj-social-element name="vk" src="https://raw.githubusercontent.com/ilyxenc/Yandex-Conf-Layout/main/images/t-2.png" href="https://t.me/market_marketplace"></mj-social-element>
+        </mj-social>
+      </mj-column>
+      <mj-column width="445px">
+        <mj-text color="white" align="right" font-size="10px" line-height="44px">© 2023 ООО «Яндекс»</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
